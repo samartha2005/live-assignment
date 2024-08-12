@@ -1,0 +1,4 @@
+Name: John Doe, Age: 30, Salary: $50000
+Name: Jane Smith, Age: 28, Salary: $60000
+Name: Michael Johnson, Age: 35, Salary: $75000
+Name: Emily Davis, Age: 32, Salary: $65000

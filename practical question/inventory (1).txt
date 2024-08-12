@@ -1,0 +1,7 @@
+Product Name       Quantity    Price
+------------------------------------
+Laptop             10          $1200
+Monitor            20          $300
+Keyboard           30          $50
+Mouse              50          $20
+Printer            5           $150
