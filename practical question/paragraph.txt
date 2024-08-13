@@ -1,0 +1,1 @@
+This is a paragraph. It contains words, punctuation, and words repeated. This paragraph will be used to demonstrate word counting.
